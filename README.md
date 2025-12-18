@@ -99,6 +99,10 @@ This transaction proves:
 
 ---
 
+Future extensions (e.g. time semantics) are specified in `docs/` and are intentionally decoupled from Anchor v1.
+
+---
+
 ## License
 
 MIT
